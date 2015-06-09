@@ -1,0 +1,28 @@
+{
+  "name": "premierleague",
+  "version": "1.0.0",
+  "description": "Finds Premier League match on given date and returns score of the match",
+  "main": "index.js",
+  "dependencies": {
+    "restler": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/robertchavez/premierleague"
+  },
+  "keywords": [
+    "Premier",
+    "League",
+    "Node"
+  ],
+  "author": "Robert Chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertchavez/premierleague/issues"
+  },
+  "homepage": "https://github.com/robertchavez/premierleague"
+}
